@@ -146,4 +146,30 @@ Any task involving sequential data with long-range dependencies
 
 ![deeblearning](../images/model_dl.png)
 
+## What is CNN?
+
+It’s a special type of neural network designed specifically to process data that has a spatial structure, like images and videos.
+
+
+## Why is CNN important?
+
+   * It uses operations called convolutions to automatically extract important features from images, such as edges, shapes, and patterns.
+
+   * It can learn complex representations of images and videos efficiently.
+
+   * It reduces the number of parameters compared to traditional neural networks, making it faster and more efficient for image-related tasks.
+
+![CNN](../images/cnn_define.png)
+
+ ## Where is it used?
+
+  * Image recognition (e.g., classifying cats vs. dogs).
+
+  * Face detection.
+
+  * Video analysis.
+
+  * Object detection in images.
+
+![CNN_ap](../images/ap_cnn.png)
 
