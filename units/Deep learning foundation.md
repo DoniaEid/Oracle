@@ -140,3 +140,10 @@ Any task involving sequential data with long-range dependencies
    
 ![Lstm](../images/working_LSTM.png)
 
+
+
+## Deep Leaning Model
+
+![deeblearning](../images/deeplearning_model.png)
+
+
