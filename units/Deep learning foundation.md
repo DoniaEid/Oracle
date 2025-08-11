@@ -71,5 +71,35 @@ One key feature of RNN is the feedback loop:
 This loop allows the network to retain information from previous steps and use it when processing the current input, enabling the model to understand context and dependencies over time.
 
 
+
 ![RNN](../images/RNN_define.png)
+
+
+## Types of RNN Architecture:
+1. One-to-One
+  * Simple type.
+
+  * One input → One output.
+
+  * Example: Image classification (not really an RNN case, but for comparison).
+
+
+2. One-to-Many
+ * One input → Multiple sequential outputs.
+
+ * Example: Image captioning (generating a sequence of words from one image).
+
+
+3. Many-to-One
+ * Multiple sequential inputs → One output.
+
+ * Example: Sentiment analysis (classifying a sentence as positive or negative).
+
+
+4. Many-to-Many
+ * Multiple sequential inputs → Multiple sequential outputs.
+
+ * Example: Machine translation (translating a full sentence to another language).
+
+![types RNN](../images/types rnn.png)
 
