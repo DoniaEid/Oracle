@@ -17,4 +17,4 @@ In simple terms: it’s the ability of computers to "think" or "act" intelligent
 * **Medical Diagnosis:** AI helps doctors analyze scans and detect diseases.
 * **Data Analysis & Prediction:** Banks detect fraud; airlines optimize flight schedules.
 
-![AI](images/AI example.png)
+![AI Images](images/AI example.png)
