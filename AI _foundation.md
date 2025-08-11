@@ -55,4 +55,4 @@ In contrast, LLMs rely solely on the knowledge learned during training, which ma
 
 * Reinforcement Learning:The model learns to make decisions by interacting with an environment, receiving rewards or penalties based on its actions.
 
-![ML] (images/ml.png)
+![ML] (images/Types of ml.png)
