@@ -6,7 +6,7 @@ Machine Learning is a branch of Artificial Intelligence (AI) that focuses on dev
 The core idea: instead of writing fixed instructions, we provide the model with data and examples, and it learns the patterns and relationships to make decisions or predictions.
 
 
-Examples:
+📌 Examples:
 
 * Predicting stock prices.
 
@@ -60,7 +60,11 @@ It converts the texts into numerical features ready for training without manuall
 
   2-Multi-Class:is a type of Supervised Learning where the output can be one of three or more categories, such as classifying an image as cat, dog, or bird.
 
+  FACT:
 
+   * Logistic regression → Outputs a probability value (0 ≤ p ≤ 1).
+
+   * Linear regression → Outputs a continuous numerical value (can be any real number)
 
 ![Supervide](images/types_supervide.png)
 
