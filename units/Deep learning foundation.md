@@ -35,6 +35,6 @@ is a branch of Machine Learning that focuses on using multi-layered artificial n
  * Also, Transformers have become very popular recently for analyzing text and speech.
 
 
-![algorithm deep learning](../images/algorithm dl.png)
+![algorithm](../images/algorithm dl.png)
 
 
