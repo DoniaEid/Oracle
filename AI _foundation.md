@@ -45,3 +45,14 @@ In contrast, LLMs rely solely on the knowledge learned during training, which ma
 
 * DL (Deep Learning): A subset of ML that uses multi-layered neural networks to solve complex problems like image and speech recognition.
 ![Difference](images/AI,ML,DL.png)
+
+
+## Types of Machine Learning:
+
+1.Supervised Learning:EXTRACT RULES DATA
+
+2.Unsupervised Learning:EXTRACT TRENDS FROM DATA
+
+3.Reinforcement Learning:The model learns to make decisions by interacting with an environment, receiving rewards or penalties based on its actions.
+
+![types](images/types_ml.png)
