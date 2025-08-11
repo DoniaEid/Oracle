@@ -76,7 +76,20 @@ It converts the texts into numerical features ready for training without manuall
 ![Supervide](images/types_supervide.png)
 
 
+# What is Unsupervide Learning?
 
+  is a type of machine learning where the model learns from data that does not contain labels or correct answers.
+
+  Instead of learning to map inputs to outputs, it tries to discover patterns, groups, or hidden structures within the data on its own.
+
+  📌 Examples of tasks in Unsupervised Learning:
+
+  * Clustering:Grouping data into clusters based on similarity (e.g., grouping customers by their behavior).
+
+  * Dimensionality Reduction:Reducing the number of features while preserving important information (e.g., reducing image dimensions while keeping its content).
+
+
+![unSupervide](images/unsupervide.png)
 
 
 
