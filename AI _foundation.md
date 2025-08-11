@@ -49,10 +49,10 @@ In contrast, LLMs rely solely on the knowledge learned during training, which ma
 
 ## Types of Machine Learning:
 
-1.Supervised Learning:EXTRACT RULES DATA
+* Supervised Learning:Extract Rules Data
 
-2.Unsupervised Learning:EXTRACT TRENDS FROM DATA
+* Unsupervised Learning:Extract Trends From Data
 
-3.Reinforcement Learning:The model learns to make decisions by interacting with an environment, receiving rewards or penalties based on its actions.
+* Reinforcement Learning:The model learns to make decisions by interacting with an environment, receiving rewards or penalties based on its actions.
 
-![types](images/Types_ml.png)
+![ML] (images/ml.png)
