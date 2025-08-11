@@ -144,6 +144,6 @@ Any task involving sequential data with long-range dependencies
 
 ## Deep Leaning Model
 
-![deeblearning](../images/deeplearning_model.png)
+![deeblearning](../images/model_dl.png)
 
 
