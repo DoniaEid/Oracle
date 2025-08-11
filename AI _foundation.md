@@ -18,4 +18,4 @@ In simple terms: it’s the ability of computers to "think" or "act" intelligent
 * **Data Analysis & Prediction:** Banks detect fraud; airlines optimize flight schedules.
 
 
-![AI Images](images/AI_example.png)
+![AI](images/AI_example.png)
