@@ -59,7 +59,7 @@ It converts the texts into numerical features ready for training without manuall
   1-Binary:is a type of Supervised Learning where the output has only two possible outcomes, such as True/False, Yes/No, or 0/1.
 
   2-Multi-Class:is a type of Supervised Learning where the output can be one of three or more categories, such as classifying an image as cat, dog, or bird.
-
+#
   FACT:
 
    * Logistic regression → Outputs a probability value (0 ≤ p ≤ 1).
