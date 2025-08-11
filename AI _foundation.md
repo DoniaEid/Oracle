@@ -66,3 +66,18 @@ It is used in applications like image recognition, speech processing, natural la
 It doesn’t invent new systems like generative learning, but rather builds deep models to analyze existing data, often using pre-labeled data for tasks such as image recognition  need a large amount of labeled data to learn effectively. Without enough training data, the models can't identify the patterns needed to perform tasks accurately, so they won’t work well or may fail entirely.
 
 ![Deep learning](images/DL.png)
+
+
+## Neural AI:
+* Neural AI is a branch of artificial intelligence based on models inspired by the human brain called Artificial Neural Networks.
+
+* These networks consist of simple units called artificial neurons that connect to each other to transmit information and learn from data.
+
+* Neural AI is used in many fields such as image recognition, speech processing, language understanding, gaming, and complex predictions.
+
+* Neural networks learn from data by adjusting the weights between neurons using algorithms like Deep Learning.
+
+* Some common types of neural networks include Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN), and Deep Neural Networks.
+
+
+![neural](images/neural.png)
