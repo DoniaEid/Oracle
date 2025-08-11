@@ -15,4 +15,4 @@ Examples:
 * Recommendation systems (e.g., suggesting movies on Netflix).
 
 
-![machine learning](images/ML define.png)
+![ML](images/ML define.png)
