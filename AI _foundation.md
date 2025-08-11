@@ -16,9 +16,5 @@ In simple terms: it’s the ability of computers to "think" or "act" intelligent
 * **Chatbots:** Online customer service bots answer questions anytime.
 * **Medical Diagnosis:** AI helps doctors analyze scans and detect diseases.
 * **Data Analysis & Prediction:** Banks detect fraud; airlines optimize flight schedules.
-![AI Images](images/AI example.png)
-# What is Artificial intelligence?
-Artificial Intelligence (AI) is a branch of computer science that enables machines and software to perform tasks that normally require human intelligence, such as learning, understanding, decision-making, and recognizing images or speech.  
-In simple terms: it’s the ability of computers to "think" or "act" intelligently like humans.
 
-![AI example](images/AI example.png)
+![AI](images/AI example.png)
