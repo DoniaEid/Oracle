@@ -35,3 +35,13 @@ RAG combines retrieving information from external sources with text generation u
 In contrast, LLMs rely solely on the knowledge learned during training, which may make them less accurate in linking words to their meanings in new contexts or with recent information.
 
 ![language MODEL](images/language_model.png)
+
+
+
+## Difference between AI,DL,ML
+* AI (Artificial Intelligence): A broad field focused on creating systems that can perform tasks requiring human intelligence like reasoning, learning, and decision-making.
+
+* ML (Machine Learning): A subset of AI where systems learn from data and improve their performance without being explicitly programmed for every task.
+
+* DL (Deep Learning): A subset of ML that uses multi-layered neural networks to solve complex problems like image and speech recognition.
+![Difference](images/AI,ML,DL.png)
