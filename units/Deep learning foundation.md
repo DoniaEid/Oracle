@@ -38,3 +38,19 @@ is a branch of Machine Learning that focuses on using multi-layered artificial n
 ![algorithm](../images/algorithm_dl.png)
 
 
+## What is an ANN?
+
+Imagine a large network of tiny cells (like brain cells).
+Each tiny cell is called a "neuron."
+These neurons are connected to each other in layers.
+
+## What does Deep Learnig do?
+
+First, it takes information or data (for example, an image or text).
+Then, this data moves from one layer to another.
+Each layer processes the data using numbers called weights and bias to understand parts of the data.
+In the end, it produces a result (for example, it says whether the image contains a cat or a dog)
+
+
+![ANN](../images/ANN.png)
+
