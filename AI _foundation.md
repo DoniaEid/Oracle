@@ -54,4 +54,4 @@ In contrast, LLMs rely solely on the knowledge learned during training, which ma
 * Unsupervised Learning:Extract Trends From Data
 
 * Reinforcement Learning:The model learns to make decisions by interacting with an environment, receiving rewards or penalties based on its actions.
-![Difference](images/Types of ml.png)
+![Difference](images/ML.png)
