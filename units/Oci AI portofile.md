@@ -70,4 +70,4 @@ Key Points:
 
   * Can perform tasks like setting reminders, answering queries, controlling smart devices, and managing schedules.
 
-![Ai model](../images/ai model.png)
+![Ai](../images/ai_model.png)
