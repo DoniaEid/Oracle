@@ -138,5 +138,5 @@ Any task involving sequential data with long-range dependencies
 
 
    
-![Lstm](../images/working LSTM.png)
+![Lstm](../images/working_LSTM.png)
 
