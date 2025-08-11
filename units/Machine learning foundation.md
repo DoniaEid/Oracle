@@ -27,7 +27,7 @@ It converts the texts into numerical features ready for training without manuall
 
 
 
-![ML](images/ML_define.png)
+![ML](../images/ML_define.png)
 
 
 ## What is Supervide learning?
@@ -73,7 +73,7 @@ It converts the texts into numerical features ready for training without manuall
 
    * Linear regression → Outputs a continuous numerical value (can be any real number)
 
-![Supervide](images/types_supervide.png)
+![Supervide](../images/types_supervide.png)
 
 
 # What is Unsupervide Learning?
@@ -89,7 +89,7 @@ It converts the texts into numerical features ready for training without manuall
   * Dimensionality Reduction:Reducing the number of features while preserving important information (e.g., reducing image dimensions while keeping its content).
 
 
-![unSupervide](images/unsupervide.png)
+![unSupervide](../images/unsupervide.png)
 
 
 # What is Reinforcement Learning?
@@ -110,7 +110,7 @@ Simple example:
 Teaching a robot to walk or playing a game like chess, where the robot or player improves its moves based on the rewards or penalties it receives.
 
 
-![RL](images/RL_training.png)
+![RL](../images/RL_training.png)
 
 
 
