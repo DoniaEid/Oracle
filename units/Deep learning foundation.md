@@ -18,3 +18,23 @@ is a branch of Machine Learning that focuses on using multi-layered artificial n
 
 ![deep learning](../images/history_deeplearning.png)
 
+
+
+## Deep Learning Algorithm:
+
+1-Images and Videos:
+
+ * Usually, Convolutional Neural Networks (CNNs) are used because they are excellent at detecting patterns in images and videos.
+
+ * Videos are considered sequences of images, so CNNs can be combined with temporal models to handle the time dimension.
+
+2-Speech and Text:
+
+ * For these, models that handle **sequential data** like Recurrent Neural Networks **(RNNs)**, especially LSTM, are used because they can manage long-term temporal relationships.
+
+ * Also, Transformers have become very popular recently for analyzing text and speech.
+
+
+![algorithm deep learning](../images/algorithm dl.png)
+
+
