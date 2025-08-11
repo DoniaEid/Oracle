@@ -19,3 +19,14 @@ In simple terms: it’s the ability of computers to "think" or "act" intelligent
 
 
 ![AI](images/example.png)
+
+
+### Language AI Models:
+* ** Recurrent Neural Networks(RNN)
+* **Long short _Term Memory(LStM):LSTM helps retain important information for long periods while ignoring irrelevant information, making it more effective in handling long sequential data.
+* **Transform:LLMs and RAG models fall under the Transformer architecture, which processes the entire sequence simultaneously (not step-by-step), making it faster. They use the Attention mechanism to focus on important parts of the sequence regardless of distance, resulting in better performance, especially on long sequences.
+Fact:
+RAG combines retrieving information from external sources with text generation using a language model, allowing it to connect words and meanings based on real and up-to-date information—similar to how humans consult references before answering.
+In contrast, LLMs rely solely on the knowledge learned during training, which may make them less accurate in linking words to their meanings in new contexts or with recent information.
+
+![language MODEL][images/language model]
