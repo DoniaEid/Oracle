@@ -103,3 +103,40 @@ This loop allows the network to retain information from previous steps and use i
 
 ![types RNN](../images/types_rnn.png)
 
+
+
+## What is LSTM?
+
+It’s a special type of Recurrent Neural Network (RNN) designed to better remember information over long sequences and avoid the problem of forgetting important details too quickly.
+
+
+## Why is LSTM important?
+
+Traditional RNNs struggle with vanishing gradients, making it hard to learn long-term dependencies.
+
+LSTM uses gates (input, forget, and output gates) to control what information to keep, update, or forget.
+
+This lets LSTM remember relevant information for longer periods and ignore irrelevant or old data.
+
+
+## Where is it used?
+
+Speech recognition
+
+Language modeling and translation
+
+Time series prediction
+
+Any task involving sequential data with long-range dependencies
+
+
+## What differance between RNN,LSTM?
+
+   * RNN works well with short sequences but tends to forget quickly with long data.
+
+   * LSTM not only retains important information for a long time but also removes repeated or unnecessary information using forget gates, making it better at handling long and complex sequences.
+
+
+   
+![Lstm](../images/LSTM.png)
+
