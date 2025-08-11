@@ -65,4 +65,4 @@ Deep Learning is a branch of machine learning that uses multi-layered neural net
 It is used in applications like image recognition, speech processing, natural language processing, and autonomous driving.
 It doesn’t invent new systems like generative learning, but rather builds deep models to analyze existing data, often using pre-labeled data for tasks such as image recognition  need a large amount of labeled data to learn effectively. Without enough training data, the models can't identify the patterns needed to perform tasks accurately, so they won’t work well or may fail entirely.
 
-![Deep learning](images/deep learning.png)
+![Deep learning](images/DL.png)
