@@ -14,13 +14,16 @@ Examples:
 
 * Recommendation systems (e.g., suggesting movies on Netflix).
 
-FACT:
+FACT
+
 TF-IDF:
+
 The tool analyzes the texts automatically.
 
 It identifies the important words based on their frequency and significance across all documents.
 
 It converts the texts into numerical features ready for training without manually selecting or weighting the words.
+
 
 
 ![ML](images/ML_define.png)
