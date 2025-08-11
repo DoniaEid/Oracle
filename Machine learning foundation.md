@@ -39,7 +39,7 @@ It converts the texts into numerical features ready for training without manuall
 
 ## Types of supervide Learning:
 
-* Regression:(continues)
+* REGRATION:(continues)
 
    is a type of Supervised Learning used when the output is a continuous numerical value rather than a category.
    Instead of predicting a class (“cat” or “dog”), it predicts a number or a trend line.
@@ -54,7 +54,7 @@ It converts the texts into numerical features ready for training without manuall
     * Analyzing the relationship between time and the number of users (which can produce a growth trend graph).
 
 
-* classification(categorical)
+* CLASSIFICATION(categorical)
   1-Binary:is a type of Supervised Learning where the output has only two possible outcomes, such as True/False, Yes/No, or 0/1.
 
   2-Multi-Class:is a type of Supervised Learning where the output can be one of three or more categories, such as classifying an image as cat, dog, or bird.
