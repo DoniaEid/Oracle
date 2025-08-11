@@ -77,29 +77,29 @@ This loop allows the network to retain information from previous steps and use i
 
 ## Types of RNN Architecture:
 1. One-to-One
-  * Simple type.
+   * Simple type.
 
-  * One input → One output.
+   * One input → One output.
 
-  * Example: Image classification (not really an RNN case, but for comparison).
+   * Example: Image classification (not really an RNN case, but for comparison).
 
 
 2. One-to-Many
- * One input → Multiple sequential outputs.
+   * One input → Multiple sequential outputs.
 
- * Example: Image captioning (generating a sequence of words from one image).
+   * Example: Image captioning (generating a sequence of words from one image).
 
 
 3. Many-to-One
- * Multiple sequential inputs → One output.
+   * Multiple sequential inputs → One output.
 
- * Example: Sentiment analysis (classifying a sentence as positive or negative).
+   * Example: Sentiment analysis (classifying a sentence as positive or negative).
 
 
 4. Many-to-Many
- * Multiple sequential inputs → Multiple sequential outputs.
+   * Multiple sequential inputs → Multiple sequential outputs.
 
- * Example: Machine translation (translating a full sentence to another language).
+   * Example: Machine translation (translating a full sentence to another language).
 
-![types RNN](../images/types rnn.png)
+![types RNN](../images/types_rnn.png)
 
