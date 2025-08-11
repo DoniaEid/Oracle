@@ -1,6 +1,5 @@
 # What is machine learning?
 
-ChatGPT said:
 Machine Learning is a branch of Artificial Intelligence (AI) that focuses on developing systems that can learn from data and improve their performance over time without being explicitly programmed for each specific task.
 
 The core idea: instead of writing fixed instructions, we provide the model with data and examples, and it learns the patterns and relationships to make decisions or predictions.
@@ -99,6 +98,7 @@ It converts the texts into numerical features ready for training without manuall
 
 
 # How it works ?
+
  * The agent takes an action in the environment.
 
  * The environment gives feedback in the form of rewards or penalties.
