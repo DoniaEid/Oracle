@@ -146,7 +146,7 @@ Any task involving sequential data with long-range dependencies
 
 ![deeblearning](../images/model_dl.png)
 
-## What is CNN?
+## What is CNN(Convolutional Neural Network) ?
 
 It’s a special type of neural network designed specifically to process data that has a spatial structure, like images and videos.
 
@@ -161,7 +161,7 @@ It’s a special type of neural network designed specifically to process data th
 
 ![CNN](../images/cnn_define.png)
 
- ## Where is it used?
+ ## Where CNN used?
 
   * Image recognition (e.g., classifying cats vs. dogs).
 
