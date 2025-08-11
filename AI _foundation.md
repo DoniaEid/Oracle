@@ -8,7 +8,7 @@ In simple terms: it’s the ability of computers to "think" or "act" intelligent
 
 
 
-## AI example
+## AI example:
 * **Voice Assistants:** Siri, Alexa, Google Assistant—understand and respond to your voice.
 * **Image Recognition:** Facebook tags people in photos automatically; self-driving cars detect traffic signs.
 * **Recommendation Systems:** Netflix, YouTube, and Amazon suggest movies, videos, and products based on your preferences.
@@ -17,4 +17,5 @@ In simple terms: it’s the ability of computers to "think" or "act" intelligent
 * **Medical Diagnosis:** AI helps doctors analyze scans and detect diseases.
 * **Data Analysis & Prediction:** Banks detect fraud; airlines optimize flight schedules.
 
-![AI Images](images/AI example.png)
+
+![AI Images](images/AI_example.png)
