@@ -92,6 +92,25 @@ It converts the texts into numerical features ready for training without manuall
 ![unSupervide](images/unsupervide.png)
 
 
+# What is Reinforcement Learning?
+
+ is a type of machine learning where an agent learns to make decisions by interacting with an environment to maximize rewards or avoid penalties.
+
+
+
+# How it works ?
+ * The agent takes an action in the environment.
+
+ * The environment gives feedback in the form of rewards or penalties.
+
+ * The agent learns from this experience to choose actions that maximize cumulative rewards over time.
+
+Simple example:
+
+Teaching a robot to walk or playing a game like chess, where the robot or player improves its moves based on the rewards or penalties it receives.
+
+
+![RL](images/RL_training.png)
 
 
 
