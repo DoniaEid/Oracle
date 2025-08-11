@@ -32,7 +32,9 @@ It converts the texts into numerical features ready for training without manuall
 
 ## Waht is Supervide learning?
 
-* ** is a type of machine learning where the model is trained on labeled data (features + labels) so it learns the relationship between inputs and outputs, and can then predict outputs for new inputs.
+ is a type of machine learning where the model is trained on labeled data (features + labels) so it learns the relationship between inputs and outputs, and can then predict outputs for new inputs.
+
+
 
 ## Types of supervide Learning:
 
