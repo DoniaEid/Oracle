@@ -30,9 +30,10 @@ It converts the texts into numerical features ready for training without manuall
 ![ML](images/ML_define.png)
 
 
-## Waht is Supervide learning?
+## What is Supervide learning?
 
  is a type of machine learning where the model is trained on labeled data (features + labels) so it learns the relationship between inputs and outputs, and can then predict outputs for new inputs.
+
 
 
 
@@ -40,17 +41,17 @@ It converts the texts into numerical features ready for training without manuall
 
 * Regression:(continues)
 
-is a type of Supervised Learning used when the output is a continuous numerical value rather than a category.
-Instead of predicting a class (“cat” or “dog”), it predicts a number or a trend line.
+   is a type of Supervised Learning used when the output is a continuous numerical value rather than a category.
+   Instead of predicting a class (“cat” or “dog”), it predicts a number or a trend line.
 
 
-📌 Examples:
+   📌 Examples:
 
-* Predicting the price of a house based on its size and location.
+    * Predicting the price of a house based on its size and location.
 
-* Plotting a curve to show sales growth over time.
+    * Plotting a curve to show sales growth over time.
 
-* Analyzing the relationship between time and the number of users (which can produce a growth trend graph).
+    * Analyzing the relationship between time and the number of users (which can produce a growth trend graph).
 
 
 * classification(categorical)
