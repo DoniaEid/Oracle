@@ -5,6 +5,9 @@ In simple terms: it’s the ability of computers to "think" or "act" intelligent
 ![AI Images](images/AI.png)
 
 
+
+
+
 ## AI example
 * **Voice Assistants:** Siri, Alexa, Google Assistant—understand and respond to your voice.
 * **Image Recognition:** Facebook tags people in photos automatically; self-driving cars detect traffic signs.
@@ -18,4 +21,4 @@ In simple terms: it’s the ability of computers to "think" or "act" intelligent
 Artificial Intelligence (AI) is a branch of computer science that enables machines and software to perform tasks that normally require human intelligence, such as learning, understanding, decision-making, and recognizing images or speech.  
 In simple terms: it’s the ability of computers to "think" or "act" intelligently like humans.
 
-![AI Images](images/AI example.png)
+![AI example](images/AI example.png)
