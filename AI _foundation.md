@@ -44,6 +44,7 @@ In contrast, LLMs rely solely on the knowledge learned during training, which ma
 * ML (Machine Learning): A subset of AI where systems learn from data and improve their performance without being explicitly programmed for every task.
 
 * DL (Deep Learning): A subset of ML that uses multi-layered neural networks to solve complex problems like image and speech recognition.
+
 ![Difference](images/AI,ML,DL.png)
 
 
@@ -54,4 +55,14 @@ In contrast, LLMs rely solely on the knowledge learned during training, which ma
 * Unsupervised Learning:Extract Trends From Data
 
 * Reinforcement Learning:The model learns to make decisions by interacting with an environment, receiving rewards or penalties based on its actions.
+
 ![Difference](images/ML.png)
+
+
+
+## Deep Learning:
+Deep Learning is a branch of machine learning that uses multi-layered neural networks to mimic how the human brain processes data and recognizes complex patterns.
+It is used in applications like image recognition, speech processing, natural language processing, and autonomous driving.
+It doesn’t invent new systems like generative learning, but rather builds deep models to analyze existing data, often using pre-labeled data for tasks such as image recognition  need a large amount of labeled data to learn effectively. Without enough training data, the models can't identify the patterns needed to perform tasks accurately, so they won’t work well or may fail entirely.
+
+![Deep learning](images/deep learning.png)
