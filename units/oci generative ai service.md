@@ -69,7 +69,7 @@ it means that artificial intelligence uses algorithms and techniques to find gro
 ![vector](../images/vector.png)
 
 
-# What is sql?
+# What is SQL?
   stands for Structured Query Language,and it is a language designed for working with databases.
 
 Its main functions are:
