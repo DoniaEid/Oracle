@@ -24,7 +24,7 @@
 
 ## What Embedding  models?
 
-Embedding models convert words or sentences into numerical ** vectors **that represent their meaning mathematically, so computers can understand and compare them easily.
+Embedding models convert words or sentences into numerical *vectors* that represent their meaning mathematically, so computers can understand and compare them easily.
 
    Used for:
 
@@ -44,6 +44,17 @@ Example: The embeddings for "cat" and "dog" are close because they have related 
 it means that artificial intelligence uses algorithms and techniques to find groups or clusters within data, where items inside each group are similar to each other, and items in different groups are different.
 
  For example:
-  * if you have data about people, the AI model might discover clusters of customers with similar traits or behaviors (like customers who buy the same type of products).
+   if you have data about people, the AI model might discover clusters of customers with similar traits or behaviors (like customers who buy the same type of products).
 
 ![chat](../images/cluster.png)
+
+
+# What is custom model?
+ an AI model trained on specific data or for a specific domain to be more accurate in that area than general models.
+
+ Example: : An AI model trained only on medical data to answer medical questions accurately.
+
+ # Embedding 
+
+![empad](../images/embedding.png)
+
