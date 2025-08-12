@@ -71,3 +71,49 @@ Key Points:
   * Can perform tasks like setting reminders, answering queries, controlling smart devices, and managing schedules.
 
 ![Ai](../images/ai_model.png)
+
+
+
+
+## What is a GPU?
+
+A GPU is a specialized processor originally designed to accelerate graphics rendering, such as images and videos, by performing many calculations simultaneously.
+
+## Why is GPU important?
+
+  * It has thousands of smaller cores that can handle multiple tasks in parallel, making it much faster than a regular CPU for certain operations.
+
+  * Widely used in gaming, video editing, and scientific simulations.
+
+  * Crucial in AI and machine learning for speeding up training and inference of complex models like deep neural networks.
+
+
+![gpu](../images/gpu.png)
+
+
+
+## what is OCI RDMA SuperCluster?
+It’s an infrastructure within Oracle’s cloud (OCI) that uses RDMA technology combined with the SuperCluster system to provide:
+
+  * Ultra-fast data transfer between servers.
+
+  * Extremely high performance for demanding applications like large databases, analytics, and AI workloads.
+
+  * The ability to handle very heavy workloads efficiently and with low latency.
+
+## What does include Ethical Ai?
+
+   * Fairness: Avoiding bias or discrimination against any group or individual.
+
+   * Transparency: Making AI systems understandable and clear so users know how decisions are made.
+  
+   * Privacy: Protecting user data and not using it unlawfully or harmfully.
+
+   * Accountability: Having responsible people for the AI’s actions, so if something goes wrong, someone takes responsibility.
+
+   * Safety: Ensuring the AI system is secure and not exploitable for harmful purposes.
+
+   * Respect for Human Rights: Making sure AI doesn’t violate or harm human rights.
+
+![ethical](../images/ethical_ai.png)
+
