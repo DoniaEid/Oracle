@@ -35,3 +35,33 @@ Key features in OCI:
 
   * A quick start tool for developers to try the service without building a full production app
   ![vision](../images/vision.png)
+
+
+  # What is Document AI ?
+
+ Document AI (Document Artificial Intelligence) is a branch of AI focused on helping computers understand, process, and extract information from documents — whether they’re PDFs, scanned images, forms, invoices, contracts, or handwritten notes.
+
+It combines several AI technologies, including:
+
+  * OCR (Optical Character Recognition): Converts printed or handwritten text in images/PDFs into machine-readable text.
+
+  * Natural Language Processing (NLP): Understands the meaning, context, and structure of the extracted text.
+
+  * Computer Vision: Helps detect layouts, tables, checkboxes, and other visual elements.
+
+  * Machine Learning Models: Classify documents, extract specific fields (e.g., names, dates, amounts), and handle variations in document formats.
+
+What  Document AI used for?
+
+  * Automatically processing invoices and receipts.
+
+  * Extracting key data from contracts.
+
+  * Digitizing and indexing scanned archives.
+
+  * Speeding up workflows in banking, insurance, healthcare, and government services.
+
+
+ ![document](../images/document_ai.png)
+
+
