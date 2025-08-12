@@ -56,5 +56,5 @@ it means that artificial intelligence uses algorithms and techniques to find gro
 
  # Embedding 
 
-![empad](../images/embedding.png)
+![empad](../images/empadding.png)
 
