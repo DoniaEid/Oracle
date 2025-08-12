@@ -116,4 +116,3 @@ It’s an infrastructure within Oracle’s cloud (OCI) that uses RDMA technology
    * Respect for Human Rights: Making sure AI doesn’t violate or harm human rights.
 
 ![ethical](../images/ethical_ai.png)
-
