@@ -67,3 +67,17 @@ it means that artificial intelligence uses algorithms and techniques to find gro
   * The system compares the vectors to find the closest ones — meaning they are similar in meaning even if the exact words are different
 
 ![vector](../images/vector.png)
+
+
+# What is sql?
+  stands for Structured Query Language,and it is a language designed for working with databases.
+
+Its main functions are:
+  * Insert data
+
+  * Select (read) data
+
+  * Update data
+
+  * Delete data
+
