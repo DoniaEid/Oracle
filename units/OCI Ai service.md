@@ -1,6 +1,6 @@
 # Text analysis
 
-![text](../images/TEXT.png)
+![text](../images/text.png)
 
 # What OCI Speech?
  is a service from Oracle Cloud Infrastructure (OCI) that uses AI to automatically convert spoken audio into written text.
