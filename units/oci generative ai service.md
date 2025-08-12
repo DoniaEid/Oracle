@@ -58,3 +58,12 @@ it means that artificial intelligence uses algorithms and techniques to find gro
 
 ![empad](../images/empadding.png)
 
+ # What Vector Search ?
+
+  * Every text, image, or file is converted into a vector (numbers in a multi-dimensional space) using an embedding model.
+
+  * When you search, your query or keyword is also converted into a vector.
+
+  * The system compares the vectors to find the closest ones — meaning they are similar in meaning even if the exact words are different
+
+![vector](../images/vector.png)
